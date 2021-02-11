@@ -1,10 +1,10 @@
-## Table of Contents
+# Table of Contents
 
--[PROJECT TITLE](#Project-Title)
--[PROJECT DESCRIPTION](#Project-Description)
--[RUN PROGRAM](#Run-program)
--[FILES USED](#files-used)
--[ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [PROJECT TITLE](#Project-Title)
+- [PROJECT DESCRIPTION](#Project-Description)
+- [RUN PROGRAM](#Run-program)
+- [FILES USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
 
 ## Project title
 
