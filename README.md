@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 -[PROJECT TITLE](#Project-Title)
 -[PROJECT DESCRIPTION](#Project-Description)
@@ -12,7 +12,7 @@ Hello_World 2/11/2021
 
 ## Project Description
 
-Creating a sample repositor, Hello_World, using GitHub
+Creating a sample repository , Hello_World,  using GitHub
 
 ## Run Program
 
