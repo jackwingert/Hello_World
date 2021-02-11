@@ -23,6 +23,6 @@
   
 ## Files Used
 
-- **Since this is a sample file, no datafiles are necessary for this particular repository
+- **Since this is a sample file, no datafiles are necessary for this particular repository**
 - **I did use a URL link to help me set up this repository**
 - [Basic writing and formatting syntax] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
