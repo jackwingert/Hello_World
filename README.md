@@ -29,7 +29,7 @@
 
 - **Since this is a sample file, no datafiles are necessary for this particular repository**
 - **I did use a URL link to help me set up this repository**
-- URL link to file:[Basic writing and formatting syntax] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
+- URL link to file:[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
 
 ## Additional Documentation
 
